@@ -34,8 +34,6 @@ You can click the Preview link to take a look at your changes.
 <h1 >Co-curiculum </h1>
 
 - Participated in AI Untuk Rakyat
-- 
-- 
 
   <h1 >Position </h1>
   - Member of UTM COMSTAR club
@@ -62,5 +60,3 @@ You can click the Preview link to take a look at your changes.
 
 
 </div>
-
-<h3 align="left">Languages and Tools:</h3>
