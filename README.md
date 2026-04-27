@@ -1,62 +1,45 @@
-<!---
-shamelelham/shamelelham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> Hello, I'm Shamel! 👋 </h1>
 
-<h1 align="center"> Hello, I'm Shamel! ^^ </h1>
+<h3 align="center">Computer Science Diploma Student at Universiti Teknologi Malaysia</h3>
 
-<h3 align="center">1st year Computer Science Diploma student at UTM</h3>
-
-<p align="left"> <img src="gravatar.com/iamshamel" alt="shamel-elham" /> </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGYwZjF4MjF6ZHU5ZG12dGJxeWx4cGpzN2p6YW9pcGQxajYwMGQzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Hrv3zYgnSfVasVGYR/source.gif?raw=true" alt="Sublime's custom image"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGYwZjF4MjF6ZHU5ZG12dGJxeWx4cGpzN2p6YW9pcGQxajYwMGQzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Hrv3zYgnSfVasVGYR/source.gif?raw=true" alt="Decorative GIF" width="250"/>
 </p>
 
+## 👨‍💻 Get to know me!
 
-<h1>Get to know me!</h1>
+- 👋 Hi, I’m **Shamel Elham bin Suhaimi**
+- 🎓 Currently pursuing a Diploma in Computer Science at UTMSPACE.
+- 💼 Incoming Industrial Trainee at the **Employees Provident Fund (EPF)**.
+- 👀 Interested in web/app development, mobile programming, and data science.
+- 🤖 Passionate about working with artificial intelligence and AI APIs.
+- 🎨 I love art with all my heart!
+- 🌐 Check out my personal website: [kuni.my](http://kuni.my)
 
-- 👋 Hi, I’m Shamel Elham bin Suhiami
-- 👀 I’m mainly interested in web and app development, but also looking into data engineering/science/analysis.
-- :love_letter: I love art with all my heart
-- 🌱 I’m currently studying Computer Science Diploma at Universiti Teknologi Malaysia
-- 📫 You can reach out to me through my email: shamelelham@gmail.com
-  
-<h1 >Education and Certification</h1>
+## 📚 Education & Coursework
 
-- University Technology of Malaysia (2024 - present)
-- SM Sultan Abdul Halim (2019 - 2024)
-  <p> SPM - 5A 1B 3C </p>
-   PT3 - N/A
-   
-- SK Petani Jaya (2013 - 2019)
-   <p> UPSR 4A 2B  </p>
-   
-<h1 >Co-curiculum </h1>
+- **Universiti Teknologi Malaysia (UTM)** | Diploma in Computer Science (2024 - Present)
+  - *Current Focus:* Mobile Programming, Computer Graphics
+- **SM Sultan Abdul Halim** (2019 - 2024)
 
-- Participated in AI Untuk Rakyat
+## 🚀 Extracurriculars & Experience
 
-  <h1 >Position </h1>
-  - Member of UTM COMSTAR club
+- **Member**, UTM COMSTAR Club
+- **Participant**, AI Untuk Rakyat program
 
-<h1 align="left">Connect with me</h1>
-
+## 🤝 Connect with me
 
 <div align="left">
-  
- 
-  <a href="https://discordapp.com/users/sayakuni">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="http://kuni.my">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
   </a>
   <a href="mailto:shamelelham@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shamelelham/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-
-<h1 align="left">Courses 📚</h1>
-
-
+  <a href="https://discordapp.com/users/sayakuni">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
