@@ -10,16 +10,14 @@
 
 - 👋 Hi, I’m **Shamel Elham bin Suhaimi**
 - 🎓 Currently pursuing a Diploma in Computer Science at UTMSPACE.
-- 💼 Incoming Industrial Trainee at the **Employees Provident Fund (EPF)**.
 - 👀 Interested in web/app development, mobile programming, and data science.
-- 🤖 Passionate about working with artificial intelligence and AI APIs.
 - 🎨 I love art with all my heart!
 - 🌐 Check out my personal website: [kuni.my](http://kuni.my)
 
 ## 📚 Education & Coursework
 
 - **Universiti Teknologi Malaysia (UTM)** | Diploma in Computer Science (2024 - Present)
-  - *Current Focus:* Mobile Programming, Computer Graphics
+  - *Current Focus:* Internship
 - **SM Sultan Abdul Halim** (2019 - 2024)
 
 ## 🚀 Extracurriculars & Experience
